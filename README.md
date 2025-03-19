@@ -2,10 +2,10 @@
 
 **I am a Software Engineering student at TUSUR University. I work with various technologies and strive for continuous learning in the IT field.**
 
-🎓 **Studying Software Development at TUSUR University
-🔭 Currently working on a C# WPF project
-🌱 Learning graphical interfaces and new technologies
-🎯 Passionate about robotics, including programming Arduino**
+🎓 **Studying Software Development at TUSUR University**
+🔭 **Currently working on a C# WPF project**
+🌱 **Learning graphical interfaces and new technologies**
+🎯 **Passionate about robotics, including programming Arduino**
 💡 **Exploring web technologies like HTML, CSS, Vue, and Java**
 
 ### 🛠 Technologies & Tools
