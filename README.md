@@ -1,5 +1,4 @@
-**👋 Hi, I’m Kirill Dvornikov (@Chikidrill)
-
+👋**Hi, I’m Kirill Dvornikov (@Chikidrill)**
 I am a Software Engineering student at TUSUR University. I work with various technologies and strive for continuous learning in the IT field.**
 
 🎓 **Studying Software Development at TUSUR University
